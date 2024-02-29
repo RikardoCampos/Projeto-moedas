@@ -13,8 +13,8 @@ body {
 .logomao {
   display: flex;
   position: absolute;
-  width: 350px;
-  height: 350px;
+  width: 250px;
+  height: 250px;
   margin-top: 15%;
   margin-left: 10%;
 }
@@ -22,8 +22,8 @@ body {
 .logomao2 {
   display: flex;
   position: absolute;
-  width: 350px;
-  height: 350px;
+  width: 250px;
+  height: 250px;
   margin-top: 15%;
  
   right: 200px;
@@ -33,6 +33,7 @@ body {
 
 main {
   width: 375px;
+  height: 600px;
   background: #f4f4f4;
   border-radius: 20px;
   margin: 20px auto;
@@ -173,9 +174,9 @@ button:active {
 section {
   border: 3px solid #772fd3;
   border-radius: 20px;
-  margin-top: 36px;
+  margin-top: 15px;
   padding: 30px;
-
+height: 210px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -185,7 +186,7 @@ section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 5px;
+  padding: 0px;
 }
 
 .p {
@@ -196,30 +197,43 @@ section {
 }
 .pr, .pr1 {
   font-family: Roboto;
-  font-size: 20px;
+  font-size: 12px;
   font-weight: 700;
   line-height: 18px;
-  letter-spacing: 0em;
+  letter-spacing: 0px;
   text-align: left;
 }
 .imgb {
-  width: 44px;
-  height: 44px;
+  width: 24px;
+  height: 24px;
   top: 425px;
   left: 163px;
 }
+.imgBan{
+    width: 24px;
+    height: 24px;
+    top: 425px;
+    left: 163px;
+
+}
 
 .seta {
-  width: 35px;
-  height: 49.94px;
+  width: 25px;
+  height: 25px;
   top: 526px;
   left: 167px;
-  margin: 20px;
+  margin: 10px;
+}
+.imgseta{
+    width: 23px;
+
+
 }
 
 .eua {
+    
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2px;
+  padding: 0px;
 }
