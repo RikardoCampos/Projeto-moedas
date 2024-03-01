@@ -176,7 +176,7 @@ section {
   border-radius: 20px;
   margin-top: 15px;
   padding: 30px;
-height: 210px;
+height: 215px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -204,15 +204,15 @@ height: 210px;
   text-align: left;
 }
 .imgb {
-  width: 35px;
-  height: 35px;
-  top: 425px;
+  width: 40px;
+  height: 40px;
+  margin-top: -25px;
   left: 163px;
 }
 .imgBan{
-    width: 30px;
-    height: 30px;
-    top: 425px;
+    width: 40px;
+    height: 40px;
+    top: 3px;
     left: 163px;
 
 }
@@ -220,12 +220,13 @@ height: 210px;
 .seta {
   width: 25px;
   height: 25px;
-  top: 526px;
+  top: 9px;
   left: 167px;
   margin: 10px;
 }
 .imgseta{
     width: 23px;
+    margin-top: -5px;
 
 
 }
